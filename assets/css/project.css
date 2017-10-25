@@ -1,0 +1,4 @@
+/* CSS specific to the project */
+div.jumbotron-background {
+    background-image: url(../images/city.png);
+}
